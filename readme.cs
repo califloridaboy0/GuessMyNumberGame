@@ -1,4 +1,5 @@
-﻿GuessMyNumber works but only if an integer is entered.
- Program breaks if anything other than a plain integer is entered.
-    Commented code is mostly my initial attempt to catch any errors.
-    For some reason, Test class cannot access variables a and n.
+﻿/*Comments are mostly to try to make sense of what's happening.
+ *I think that I have a problem with the Test class generating a new random number
+ *but I'm not sure because I've only witnessed it once.
+ *Not perfect, but at least it's not a dumpster fire any more.
+*/
